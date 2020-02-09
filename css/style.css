@@ -11,7 +11,7 @@ body {
   }
   
 #main {
-    margin: 25px 10px;
+    margin: 25px 12px;
     padding: 15px;
     background-color: mintcream;
 } 
@@ -24,7 +24,7 @@ body {
 }
 
 #img-div { 
-    padding: 20px;
+    padding: 22px;
     background-color: white;
 }
 
